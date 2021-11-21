@@ -1,0 +1,419 @@
+body{
+    margin: 0;
+    font-family: "AdihausDIN",Helvetica,Arial,sans-serif;
+}
+a{
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
+}
+a.white-links{
+    color: white;
+}
+.header1{
+    width: 100%;
+    height: 28px;
+    background: black;
+    color: white;
+    font-size: 12px;
+    font-weight: bold;
+    font-family: "AdihausDIN",Helvetica,Arial,sans-serif;
+}
+.header1-body1{
+    margin-top: 8px;
+    width: 30%;
+    height: 20px;
+    float: left;
+    text-align: center;
+}
+.header1-body2{
+    margin-top: 8px;
+    width: 30%;
+    height: 20px;
+    float: left;
+    text-align: center;
+}
+.header1-body3{
+    margin-left: 35px;
+    margin-top: 8px;
+    width: 30%;
+    height: 20px;
+    float: left;
+    text-align: center;
+}
+.header2-logo{
+    width: 10%;
+    height: 100px;
+    float: left;
+}
+.adidas-logo{
+    margin-left: 40px;
+    margin-top: 15px;
+}
+.header2-rightmenu{
+    color: black;
+    font-size: small;
+    width: 90%;
+    height:25px ;
+    background: white;
+    float: left;
+    text-align: center;
+}
+.help{
+    color: black;
+    padding-left: 700px;
+    float: left;
+    width: auto;
+    margin-top: 4px;
+}
+.returns{
+    width: 8%;
+    float: left;
+    margin-top: 4px;
+}
+.order-tracker{
+    width: 8%;
+    float: left;
+    margin-top: 4px;
+}
+.sign-up{
+    width: 8%;
+    float: left;
+    margin-top: 4px;
+}
+.log-in{
+    text-align: left;
+    width: 8%;
+    float: left;
+    margin-top: 4px;
+}
+.black-links{
+    color: black;
+}
+.mainmenu{
+    width: 90%;
+    height: 75px ;
+    float: left;
+}
+.mainmenu-buttons{
+    width: 60%;
+    height: 75px;
+    padding-left: 100px;
+    float: left;
+}
+.menu-buttons{
+    background: none;
+    margin-left: 10px;
+    margin-top: 25px;
+    font-size: 16px;
+    width: auto;
+    height: 50px;
+    border-width: 0;
+}
+.bold{
+    font-weight: bold;
+}
+.menu-buttons:hover{
+    cursor: pointer;
+border-width: 10px;
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+    border-color: black;
+}
+.mainmenu-searchbar{
+    padding-top: 30px;
+    width: 30%;
+    height: 45px;
+    float: left;
+}
+.searchbar{
+    padding-left: 20px;
+    text-align:left;
+    font-size: 17px;
+    place-holder:search;
+    background: rgba(119, 136, 153, 0.137);
+    border: none;
+    width: 180px;
+    height: 38px;
+}
+.body1{
+    width: 100%;
+    height: 550px;
+    float: left;
+    background-image: url(adidas-image-1.jpg);
+}
+.main-text-image{
+    margin-top: 150px;
+    margin-left: 25px;
+    color: white;
+    font-size: 42px;
+    font-weight: 600;
+    font-family: "AdineuePRO",Helvetica,Arial,sans-serif;
+    height: 75px;
+}
+.sub-text-image{
+    color: white;
+    margin-left: 25px;
+    font-size: 18px;
+    font-weight: normal;
+}
+.image-buttons{
+    padding-left: 10px;
+    padding-right: 10PX;
+    background: white;
+    border: none;
+    margin-left: 25px;
+    line-height: 45px;
+    width: auto;
+    color: black;
+    cursor: pointer;
+    font-size: 13px;
+    font-weight: 700;
+    letter-spacing: 2px;
+}
+.body2{
+    font-size: 30px;
+    font-weight: bolder;
+    width: 100%;
+    height: 170px;
+    float: left;
+    text-align: center;
+    padding-top: 100px;
+    line-height: 70px;
+}
+.body2-buttons{
+    padding-right: 5px;
+    font-size: 15px;
+    width: auto;
+    height: 40px;
+    color: black;
+    background: white;
+    border-color: rgba(128, 128, 128, 0.493);
+    border-width: 1px;
+    border-style: solid;
+}
+.body2-buttons:hover{
+    border-color: black;
+}
+.body3{
+    float: left;
+    width: 100%;
+    height: 500px;
+    background-image: url(Space-Pack-Ultraboost-main.webp);
+    background-position: 100%;
+}
+.ultraboost{
+margin-top: 185px;    
+height: 25px;
+}
+.body4{
+    width: 100%;
+    height: 460px;
+    float: left;
+}
+.body4-menu{
+    margin-left:25px ;
+    width: 98%;
+    height: 80px;
+    float: left;
+}
+.body4-list1{
+    width: 24%;
+    height: 330px;
+    float: left;
+    padding-left: 25px;
+}
+.body4-images{
+    width: auto;
+    height: 300px;
+    margin-left: 10px;
+}
+.body4-image-caption{
+    color: black;
+    margin-left: 10px;
+    font-weight: 700;
+    font-size: 16px;
+    float: left;
+    height: 40px;
+    cursor: pointer;
+}
+.body4-list2{
+    width: 24%;
+    height: 330px;
+    float: left;
+}
+.body4-list3{
+    width: 24%;
+    height: 330px;
+    float: left;
+}
+.body4-list4{
+    width: 24%;
+    height: 330px;
+    float: left;
+}
+.body5{
+    width: 100%;
+    height: 620px;
+    float: left;
+}
+.body5-caption{
+    width: 100%;
+    height: 100px;
+    float: left;
+}
+.body-caption{
+    margin-left: 35px;
+    font-size: 30px;
+    font-weight: 700;
+}
+.body5-list1{
+    width: 23%;
+    padding-left: 25px;
+    height: 530px;
+    float: left;
+}
+.body5-images{
+    width: 270px;
+    height: 370px;
+    margin-left: 10px;
+}
+.body5-image-subcaption{
+    margin-left: 10px;
+}
+.body5-image-link{
+    margin-left: 10px;
+    font-size: small;
+    cursor: pointer;
+    color: black;
+    font-weight: bold;
+    letter-spacing: 2px;
+    text-decoration: underline;
+}
+.body5-image-link:hover{
+    color: white;
+    background: black;
+}
+.body6{
+    width: 30%;
+    height: 500px;
+    float: left;
+}
+.body6-left{
+    width: 50%;
+    float: left;
+    height: 550px;
+    background: rgba(128, 128, 128, 0.247);
+}
+.body6-main-text{
+    margin-top: 100px;
+    margin-left: 70px;
+    font-size: 12px;
+    letter-spacing: 2px;
+    font-weight: 700;
+    line-height: 26px;
+}
+.body6-sub-text{
+    margin-left: 70px;
+    font-size: 14px;
+    line-height: 20px;
+    font-weight: normal;
+    letter-spacing: 1px;
+}
+.right{
+    margin-left: 20px;
+    margin-right: 50px;
+}
+.body7{
+    padding-top: 50px;
+    width: 100%;
+    height: 90px;
+    color: #000;
+    background-color: #ede734;
+    font-size: 35px;
+    font-weight: bolder;
+    float: left;
+    text-align: center;
+}
+.footer-button{
+    border: none;
+    width: 110px;
+    color: white;
+    background: black;
+    text-align: center;
+}
+.footer-button:hover{
+    color: rgba(255, 255, 255, 0.548);
+}
+.footer-menu{
+
+    width: 100%;
+    height: 300px;
+    float: left;
+}
+.footer-list{
+    text-align: left;
+    font-size: 14px;
+    line-height: 28px;
+    list-style-type: none;
+    color: black;
+    margin-left: 50px;
+}
+.footer-menu-product{
+width:auto;
+height: 300px;
+
+float: left;
+}
+.product{
+    padding-left: 100px;
+}
+h7{
+    font-weight: bold;
+    line-height: 3;
+}
+
+.footer{
+    background:rgb(73, 72, 72);
+    width: 100%;
+    height: 100px;
+    float: left;
+    font-size: small;
+    color: #c8cbcc;
+
+}
+.footer-logo1{
+
+    margin-top: 20px;
+    margin-left: 180px;
+    width: 5%;
+    height: 20px;
+    float: left;
+}
+.footer-body2{
+    color: black;
+    margin-top: 10px;
+    padding-left: 550px;
+    width: 32%;
+    float: left;
+    height: 20px;
+}
+a.grey-links{
+    color: #c8cbcc;
+    text-decoration: none;
+}
+.footer-links{
+    list-style-type: none;
+}
+.footer-link{
+    margin-left: 15px;
+    float: left;
+}
+.footer-copyright-data{
+    margin-top: 40px;
+    padding-left: 178px;
+    width: 20%;
+    float: left;
+}
